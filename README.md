@@ -1,6 +1,6 @@
 # Rally Visual Studio Code
 
-![](images/hecliff.png)
+![](images/heathcliff.png)
 
 Shortcuts and extensions are included here. Please run `./setup`. Then restart `code` and you are all set.
 
