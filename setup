@@ -12,5 +12,15 @@ createCodeSymlink() {
     createSymlink `pwd`/$1 ~/Library/Application\ Support/Code/User/$1
 }
 
+installExtension() {
+    code --install-extension $1
+}
+
 createCodeSymlink settings.json
 createCodeSymlink keybindings.json
+
+installExtension dkundel.vscode-npm-source
+installExtension donjayamanne.githistory
+installExtension eg2.tslint
+installExtension eg2.vscode-npm-script
+installExtension fknop.vscode-npm
