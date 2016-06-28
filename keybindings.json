@@ -60,5 +60,21 @@
     "key": "alt+up",
     "command": "editor.action.smartSelect.grow",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+alt+left",
+    "command": "workbench.action.navigateBack"
+  },
+  {
+    "key": "alt+cmd+right",
+    "command": "workbench.action.navigateForward"
+  },
+  {
+    "key": "alt+cmd+left",
+    "command": "-workbench.action.focusLeftEditor"
+  },
+  {
+    "key": "alt+cmd+right",
+    "command": "-workbench.action.focusRightEditor"
   }
 ]
