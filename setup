@@ -24,3 +24,5 @@ installExtension donjayamanne.githistory
 installExtension eg2.tslint
 installExtension eg2.vscode-npm-script
 installExtension fknop.vscode-npm
+installExtension robertohuertasm.vscode-icons
+installExtension christian-kohler.path-intellisense
