@@ -6,5 +6,6 @@
     "editor.tabSize": 2,
     "editor.renderIndentGuides": true,
     "workbench.editor.showTabs": false,
-    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "editor.scrollBeyondLastLine": false
 }
