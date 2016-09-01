@@ -26,3 +26,5 @@ installExtension eg2.vscode-npm-script
 installExtension fknop.vscode-npm
 installExtension robertohuertasm.vscode-icons
 installExtension christian-kohler.path-intellisense
+installExtension waderyan.gitblame
+installExtension emilast.LogFileHighlighter
