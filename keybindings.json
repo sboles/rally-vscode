@@ -86,5 +86,9 @@
     "key": "cmd+]",
     "command": "workbench.action.navigateForward",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+e",
+    "command": "workbench.action.quickOpen"
   }
 ]

@@ -16,6 +16,10 @@ installExtension() {
     code --install-extension $1
 }
 
+uninstallExtension() {
+    code --uninstall-extension $1
+}
+
 createCodeSymlink settings.json
 createCodeSymlink keybindings.json
 
@@ -24,7 +28,8 @@ installExtension donjayamanne.githistory
 installExtension eg2.tslint
 installExtension eg2.vscode-npm-script
 installExtension fknop.vscode-npm
-installExtension robertohuertasm.vscode-icons
 installExtension christian-kohler.path-intellisense
 installExtension waderyan.gitblame
 installExtension emilast.LogFileHighlighter
+
+uninstallExtension robertohuertasm.vscode-icons
