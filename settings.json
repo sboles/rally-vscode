@@ -1,11 +1,12 @@
 // Place your settings in this file to overwrite the default settings
 {
-    "files.autoSave": "onFocusChange",
-    "editor.fontSize": 15,
-    "npm.runInTerminal": false,
+    "editor.fontSize": 15,   
     "editor.insertSpaces": true,
-    "editor.tabSize": 2,
     "editor.renderIndentGuides": true,
-    "workbench.editor.showTabs": false,
-    "editor.scrollBeyondLastLine": false
+    "editor.scrollBeyondLastLine": false,
+    "editor.tabSize": 2,
+    "files.autoSave": "onFocusChange",
+    "javascript.validate.enable": false, // required for flow
+    "npm.runInTerminal": false,
+    "workbench.editor.showTabs": false
 }
