@@ -28,6 +28,7 @@ installExtension donjayamanne.githistory
 installExtension eg2.tslint
 installExtension eg2.vscode-npm-script
 installExtension fknop.vscode-npm
+installExtension flowtype.flow-for-vscode
 installExtension christian-kohler.path-intellisense
 installExtension waderyan.gitblame
 installExtension emilast.LogFileHighlighter
