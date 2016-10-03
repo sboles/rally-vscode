@@ -23,6 +23,7 @@ uninstallExtension() {
 createCodeSymlink settings.json
 createCodeSymlink keybindings.json
 
+installExtension dbaeumer.vscode-eslint
 installExtension dkundel.vscode-npm-source
 installExtension donjayamanne.githistory
 installExtension eg2.tslint
