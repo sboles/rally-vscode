@@ -7,6 +7,5 @@
     "editor.tabSize": 2,
     "files.autoSave": "onFocusChange",
     "javascript.validate.enable": false, // required for flow
-    "npm.runInTerminal": false,
-    "workbench.editor.showTabs": false
+    "npm.runInTerminal": false
 }
