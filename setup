@@ -32,5 +32,6 @@ installExtension flowtype.flow-for-vscode
 installExtension christian-kohler.path-intellisense
 installExtension waderyan.gitblame
 installExtension emilast.LogFileHighlighter
+installExtension dbaeumer.vscode-eslint
 
 uninstallExtension robertohuertasm.vscode-icons
