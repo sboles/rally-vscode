@@ -33,5 +33,6 @@ installExtension christian-kohler.path-intellisense
 installExtension waderyan.gitblame
 installExtension emilast.LogFileHighlighter
 installExtension Tyriar.sort-lines
+installExtension vscode-multiclip
 
 uninstallExtension robertohuertasm.vscode-icons

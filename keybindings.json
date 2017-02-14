@@ -90,5 +90,13 @@
   {
     "key": "cmd+e",
     "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "cmd+shift+v",
+    "command": "multiclip.list"
+  },
+  {
+    "key": "cmd+shift+a",
+    "command": "workbench.action.showCommands"
   }
 ]
